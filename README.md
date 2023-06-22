@@ -1,3 +1,6 @@
+# $${\color{red}MOVED}$$
+# https://github.com/hbkworld/open-api-time-data-recorder
+
 # open-api-time-data-recorder
 # Bruel & Kjaer LAN-XI Open Application Programming Interface
 # MATLAB Simple Recorder GUI Version 1.0 (September 15, 2021)
